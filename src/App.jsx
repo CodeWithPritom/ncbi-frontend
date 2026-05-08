@@ -39,7 +39,7 @@ import {
 } from 'lucide-react'
 
 // Base API URL for local FastAPI Backend
-const BASE_URL = 'http://localhost:8000'
+const BASE_URL = 'ncbi-backend-production.up.railway.app'
 
 /**
  * Utility to format abstract text with sub-headers
