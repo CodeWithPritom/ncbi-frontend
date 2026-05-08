@@ -38,8 +38,8 @@ import {
   FileDown
 } from 'lucide-react'
 
-// Base API URL for local FastAPI Backend
-const BASE_URL = 'ncbi-backend-production.up.railway.app'
+// Base API URL for Production Backend
+const BASE_URL = 'https://ncbi-backend-production.up.railway.app'
 
 /**
  * Utility to format abstract text with sub-headers
